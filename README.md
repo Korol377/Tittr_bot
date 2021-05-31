@@ -1,2 +1,5 @@
 # Tittr_bot
-Telegram bot for web service "Tittr"
+Telegram-бот для веб-сервісу "Tittr"
+
+
+Посилання на головний репозиторій проєкту - https://github.com/ogk-langelius/FlaskTut
